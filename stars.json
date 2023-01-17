@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "mankarsandesh/sunday-panel",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "DavidHDev/react-haiku",
     "stargazers_count": 170,
     "open_issues_count": 1,
@@ -7,9 +13,9 @@
   },
   {
     "full_name": "creativetimofficial/material-tailwind",
-    "stargazers_count": 1397,
-    "open_issues_count": 10,
-    "forks_count": 147
+    "stargazers_count": 1404,
+    "open_issues_count": 12,
+    "forks_count": 150
   },
   {
     "full_name": "mankarsandesh/nuxt-socket-laravel-echo-SSR",
@@ -21,7 +27,7 @@
     "full_name": "WebDevSimplified/Whatsapp-Clone",
     "stargazers_count": 287,
     "open_issues_count": 14,
-    "forks_count": 209
+    "forks_count": 211
   },
   {
     "full_name": "mankarsandesh/room-video-call-using-nodejs",
